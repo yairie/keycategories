@@ -1,0 +1,1 @@
+Group products by keywords found in the title or description.  By searching for a keyword, users can select from a products list of titles and images, then copy multiple items into a category.

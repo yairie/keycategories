@@ -1,0 +1,12 @@
+# Introduction #
+
+Need a simple way to organize your products on Zen Cart?
+
+Keycategories allows web managers to organize products by keyword.  It's simple just select the category, enter the keyword into the built-in search engine, then click on the checkbox beside each product you want to appear in the selected category, finally press update.
+
+# Details #
+
+Add your content here.  Format your content with:
+  * Text in **bold** or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
